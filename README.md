@@ -31,8 +31,8 @@ Save the trained model, visualize predictions, and integrate it into an applicat
 
 ## PROGRAM
 
-### Name: S Mohamed Ahsan
-### Register Number: 212223240089
+### Name: Jai Surya R
+### Register Number: 212223230084
 
 ```python
 class CNNClassifier(nn.Module):
